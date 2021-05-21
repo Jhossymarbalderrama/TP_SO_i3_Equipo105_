@@ -8,13 +8,15 @@ c- 1-git checkout main
    4-git commmit -m"commit"
    5-git push.
    
+Respuestas GAMMA:
    
-d) si, las ramas quedan actualizadas con lo que estaba en el ultimo commit de la branch donde fue creada.
+d- si, las ramas quedan actualizadas con lo que estaba en el ultimo commit de la branch donde fue creada.
 
 
-e)los archivos no tuvieron conflictos por lo tanto no tuvimos nungun problema al hacer el merge
+e-los archivos no tuvieron conflictos por lo tanto no tuvimos nungun problema al hacer el merge
 
-f)
+f-
+git pull
 git checkout branch
 "nombre : matias arispe" >> beta.txt 
 ifconfig >> beta.txt
@@ -22,3 +24,23 @@ date >> beta.txt
 git add .
 git commit -m "modifique beta.txt"
 git push
+
+Respuestas ALFA:
+
+g-
+//en git bash
+
+git pull
+git branch -a
+git checkout balderrama
+
+cambios en el archivo beta.txt
+
+git add .
+git commit -m "Modifica el archivo beta.txt -ALFA"
+git push
+
+
+//en la consola de linux
+ifconfig
+date
