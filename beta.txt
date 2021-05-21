@@ -1,0 +1,23 @@
+Nombre: Jhossymar Balderrama
+
+ifconfig : 
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST> mtu 1500
+inet 10.0.2.15 netmask 255.255.255.0 broadcast 10.0.2.255
+inet6 fe80::956c:5756:e687:f01 prefixlen 64 scopeid 0x20
+ether 08:00:27:0b:72:66 txqueuelen 1000 (Ethernet)
+RX packets 5186 bytes 4483639 (4.4 MB)
+RX errors 0 dropped 0 overruns 0 frame 0
+TX packets 3137 bytes 605372 (605.3 KB)
+TX errors 0 dropped 0 overruns 0 carrier 0 collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING> mtu 65536
+inet 127.0.0.1 netmask 255.0.0.0
+inet6 ::1 prefixlen 128 scopeid 0x10
+loop txqueuelen 1000 (Local Loopback)
+RX packets 566 bytes 50902 (50.9 KB)
+RX errors 0 dropped 0 overruns 0 frame 0
+TX packets 566 bytes 50902 (50.9 KB)
+TX errors 0 dropped 0 overruns 0 carrier 0 collisions 0
+
+La hora actual es: 12:22:53,68
+
