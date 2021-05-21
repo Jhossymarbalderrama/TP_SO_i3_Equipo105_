@@ -1,0 +1,9 @@
+Respuestas BETA:
+
+a- Queda con los archivos datos.txt, beta.txt, CPUAlfa.txt, CPUBeta.txt, CPUGamma.txt con la Informacion de ALFA,BETA,GAMA
+b- Si, al hacer pull pudo ver todos los cambios.
+c- 1-git checkout main
+   2-git marge origin/arispe
+   3-git add .
+   4-git commmit -m"commit"
+   5-git push.
