@@ -7,3 +7,18 @@ c- 1-git checkout main
    3-git add .
    4-git commmit -m"commit"
    5-git push.
+   
+   
+d) si, las ramas quedan actualizadas con lo que estaba en el ultimo commit de la branch donde fue creada.
+
+
+e)los archivos no tuvieron conflictos por lo tanto no tuvimos nungun problema al hacer el merge
+
+f)
+git checkout branch
+"nombre : matias arispe" >> beta.txt 
+ifconfig >> beta.txt
+date >> beta.txt
+git add .
+git commit -m "modifique beta.txt"
+git push
