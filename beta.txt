@@ -49,3 +49,26 @@ wlp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 La hora actual es:  Fri 21 May 2021 12:38:01 PM -03
+
+Nombre: Gonzalez Lucio Andres
+
+ifconfig:
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::dd36:b77c:8806:7873  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:37:61:aa  txqueuelen 1000  (Ethernet)
+        RX packets 2844  bytes 1825822 (1.7 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2151  bytes 407875 (398.3 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 72  bytes 8270 (8.0 KiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 72  bytes 8270 (8.0 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+La hora actual es: 12:45:09,40
