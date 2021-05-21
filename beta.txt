@@ -21,3 +21,31 @@ TX errors 0 dropped 0 overruns 0 carrier 0 collisions 0
 
 La hora actual es: 12:22:53,68
 
+Nombre: matias arispe 
+enp4s0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 10:c3:7b:e4:95:cc  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device interrupt 19  
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 67515  bytes 6413228 (6.4 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 67515  bytes 6413228 (6.4 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.100.2  netmask 255.255.255.0  broadcast 192.168.100.255
+        inet6 fe80::e91c:6099:9f97:1ffa  prefixlen 64  scopeid 0x20<link>
+        ether 24:0a:64:50:d9:e7  txqueuelen 1000  (Ethernet)
+        RX packets 11281574  bytes 5346747325 (5.3 GB)
+        RX errors 0  dropped 2  overruns 0  frame 0
+        TX packets 1281273  bytes 199591912 (199.5 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+La hora actual es:  Fri 21 May 2021 12:38:01 PM -03
